@@ -3,6 +3,8 @@
 
     <string name="app_name">EffectiveTimer</string>
 
+    <string name="action_settings">Settings</string>
+
     <string name="fragment_title_timer">Timer</string>
     <string name="fragment_title_statistics">Statistics</string>
 
